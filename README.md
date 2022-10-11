@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohamed2020m you can all me leeuw too.
+- 👋 Hi, I’m @mohamed2020m you can call me leeuw too.
 - 👀 I’m interested in web development and ML.
 - 🌱 I’m currently learning reactJs, c++ and django.
 - 📫 you can reach me on my linkedin https://www.linkedin.com/in/mohamed-essabir-a23633196/
