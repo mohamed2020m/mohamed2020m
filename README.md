@@ -7,16 +7,15 @@ Thank you for stopping by.
 ## **📊 Stats**
 
 <div align="center" style="text-align:center">
-  <a href="https://github.com/mohamed2020m?tab=repositories" style="display:inline-block; margin-right:20px;">
+  <a href="https://github.com/mohamed2020m?tab=repositories" >
      <img  src="https://github-readme-stats.vercel.app/api?username=mohamed2020m&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"
             alt="Leeuw's Stats">
   </a>
-  <a href="https://github.com/mohamed2020m?tab=repositories" style="display:inline-block;">
+  <a href="https://github.com/mohamed2020m?tab=repositories">
      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed2020m&theme=vue-dark&hide_border=false"
             alt="Leeuw's Streak">
   </a>
-</br>
-  <a href="https://github.com/mohamed2020m?tab=repositories" style="display:inline-block;">
+  <a href="https://github.com/mohamed2020m?tab=repositories">
      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed2020m&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"
             alt="Leeuw's Top Languages">
   </a>
