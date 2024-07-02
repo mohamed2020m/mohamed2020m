@@ -1,11 +1,9 @@
-
-# Hi, **Leeuw** is here! 👋
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=7649F7&random=false&width=435&lines=Call+Me+Leeuw;I+am+a+student+at+EnsaJ;%26+Full+stack+developer;I+am+also+fascinated+by+AI;I+like+to+learn+new+things&center=true&width=440&height=45&color=0CF748FF&vCenter=true&size=22" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&pause=500&color=42B883&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+Leeuw+is+here!+%F0%9F%91%8B;I+am+a+student+at+EnsaJ;%26+Full+stack+developer;I+am+also+fascinated+by+AI;I+like+to+learn+new+things;Glib+jocks+quiz+nymph+to+vex+dwarf" alt="Typing SVG" /></a>
 </p>
+
+#
 
 My reel name is Mohamed Essabir and I am currently a software engineering student at Ensa El jadida. As a passionate full stack developer, I have acquired a diverse skill set that allows me to work on both front-end and back-end aspects of web development. Throughout my studies, I have gained a solid foundation in various programming languages, frameworks, and technologies, enabling me to adapt quickly to new technologies and learn efficiently. I am constantly exploring and staying up to date with the latest trends and advancements in the field of web development.
 
@@ -36,7 +34,7 @@ Thank you for stopping by.
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamed2020m&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamed2020m&bg_color=1F222E&color=F8D866&line=42b883&point=FFFFFF&hide_border=true" /></a>
   
 
 
