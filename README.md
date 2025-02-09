@@ -30,9 +30,7 @@
 
 #
 
-My reel name is Mohamed Essabir and I am currently a software engineering student at Ensa El jadida. As a passionate full stack developer, I have acquired a diverse skill set that allows me to work on both front-end and back-end aspects of web development. Throughout my studies, I have gained a solid foundation in various programming languages, frameworks, and technologies, enabling me to adapt quickly to new technologies and learn efficiently. I am constantly exploring and staying up to date with the latest trends and advancements in the field of web development.
-
-Thank you for stopping by.
+I am  software engineering student at ENSA El Jadida, Morocco. As a passionate full stack developer, I have acquired a diverse skill set that allows me to work on both front-end and back-end aspects of web development. Throughout my studies, I have gained a solid foundation in various programming languages, frameworks, and technologies, enabling me to adapt quickly to new technologies and learn efficiently. I am constantly exploring and staying up to date with the latest trends and advancements in the field of web development.
 
 ## **📊 Stats**
 
