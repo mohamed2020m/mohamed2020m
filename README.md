@@ -3,42 +3,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&pause=500&color=42B883&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+Leeuw+is+here!+%F0%9F%91%8B;I+am+a+student+at+EnsaJ;%26+Full+stack+developer;I+like+to+learn+new+things" alt="Typing SVG" /></a>
 </p>
 
-#
-
-My reel name is Mohamed Essabir and I am currently a software engineering student at Ensa El jadida. As a passionate full stack developer, I have acquired a diverse skill set that allows me to work on both front-end and back-end aspects of web development. Throughout my studies, I have gained a solid foundation in various programming languages, frameworks, and technologies, enabling me to adapt quickly to new technologies and learn efficiently. I am constantly exploring and staying up to date with the latest trends and advancements in the field of web development.
-
-Thank you for stopping by.
-
-## **📊 Stats**
-
-<div align="center" style="text-align:center">
-  <a href="https://github.com/mohamed2020m?tab=repositories" >
-     <img  src="https://github-readme-stats.vercel.app/api?username=mohamed2020m&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"
-            alt="Leeuw's Stats">
-  </a>
-  <a href="https://github.com/mohamed2020m?tab=repositories">
-     <img  src="https://github-readme-streak-stats.herokuapp.com?user=mohamed2020m&theme=vue-dark&mode=weekly)](https://git.io/streak-stats"
-            alt="Leeuw's Streak">
-  </a>
-</br>
-  <a href="https://github.com/mohamed2020m?tab=repositories">
-     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed2020m&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"
-            alt="Leeuw's Top Languages">
-  </a>
-
-  </br>
-</div>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamed2020m&bg_color=1F222E&color=F8D866&line=42b883&point=FFFFFF&hide_border=true" /></a>
-  
-
-
-## **📫 How to reach me**
 
 <div align="center" style="text-align:center">
     <a href="mailto:mohamedessabir20@gmail.com">
@@ -62,3 +26,18 @@ Thank you for stopping by.
             alt="Josee9988's dev.to">
     </a> -->
 </div>
+
+
+#
+
+My reel name is Mohamed Essabir and I am currently a software engineering student at Ensa El jadida. As a passionate full stack developer, I have acquired a diverse skill set that allows me to work on both front-end and back-end aspects of web development. Throughout my studies, I have gained a solid foundation in various programming languages, frameworks, and technologies, enabling me to adapt quickly to new technologies and learn efficiently. I am constantly exploring and staying up to date with the latest trends and advancements in the field of web development.
+
+Thank you for stopping by.
+
+## **📊 Stats**
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamed2020m&bg_color=1F222E&color=F8D866&line=42b883&point=FFFFFF&hide_border=true" /></a>
+  
